@@ -1,5 +1,5 @@
 ### Mapoet Niphy 👋
-Hi, everyone, I am very happy to meet everyone, thank you for your concern. I am currently studying for a doctorate in astronomy at the Shanghai Astronomical Observatory of the Chinese Academy of Sciences.
+Hi, everyone, I am very happy to meet everyone, thank you for your concern. I am currently 🌱  studying for a doctorate in astronomy at 🔭 the Shanghai Astronomical Observatory of the Chinese Academy of Sciences.
 <!--
 **Mapoet/Mapoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
